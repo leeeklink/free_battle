@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1161,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/BackHand
+  rotate: false
+  xy: 941, 217
+  size: 113, 188
+  orig: 114, 188
+  offset: 1, 0
+  index: -1
+Images/Body
+  rotate: false
+  xy: 899, 21
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+Images/FrontHand
+  rotate: false
+  xy: 1056, 221
+  size: 103, 184
+  orig: 104, 185
+  offset: 1, 0
+  index: -1
+Images/Hair
+  rotate: false
+  xy: 729, 191
+  size: 210, 214
+  orig: 211, 214
+  offset: 0, 0
+  index: -1
+Images/Ice
+  rotate: true
+  xy: 514, 190
+  size: 215, 213
+  orig: 216, 214
+  offset: 1, 0
+  index: -1
+Images/Leg
+  rotate: false
+  xy: 1066, 2
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Images/Mouth
+  rotate: true
+  xy: 735, 4
+  size: 185, 162
+  orig: 185, 162
+  offset: 0, 0
+  index: -1
+Images/Poisoned
+  rotate: false
+  xy: 514, 10
+  size: 219, 178
+  orig: 219, 178
+  offset: 0, 0
+  index: -1
+Images/Smoked2
+  rotate: true
+  xy: 1105, 34
+  size: 31, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Images/Splash
+  rotate: true
+  xy: 2, 14
+  size: 391, 510
+  orig: 391, 511
+  offset: 0, 0
+  index: -1
+Images/smoked
+  rotate: true
+  xy: 1066, 67
+  size: 152, 60
+  orig: 156, 61
+  offset: 1, 0
+  index: -1
